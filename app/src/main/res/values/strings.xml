@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Locate</string>
+    <string name="sign_out">Sign out</string>
+    <string name="you_are_strong_and_courageous">You are strong and courageous!</string>
+    <string name="alert">Alert</string>
+    <string name="add_contacts">Add Contacts</string>
+    <string name="pharmacy" />
+    <string name="hospital" />
+    <string name="bus_station" />
+    <string name="google_maps_logo" />
+    <string name="police_station" />
+</resources>
