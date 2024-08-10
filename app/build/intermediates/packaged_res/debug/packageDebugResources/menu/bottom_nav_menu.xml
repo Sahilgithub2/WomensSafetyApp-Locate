@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_contacts"
+        android:icon="@drawable/ic_sos"
+        android:title="Contacts" />
+    <item
+        android:id="@+id/nav_book"
+        android:icon="@drawable/ic_book"
+        android:title="Resources" />
+    <item
+        android:id="@+id/navigation_sign_out"
+        android:icon="@drawable/logout"
+        android:title="Sign Out" />
+</menu>

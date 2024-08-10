@@ -1,26 +1,45 @@
 {
   "project_info": {
-    "project_number": "200723089468",
-    "project_id": "phoneauth-8980d",
-    "storage_bucket": "phoneauth-8980d.appspot.com"
+    "project_number": "10960813815",
+    "firebase_url": "https://locate-2ee56-default-rtdb.firebaseio.com",
+    "project_id": "locate-2ee56",
+    "storage_bucket": "locate-2ee56.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:200723089468:android:1b17be01eac1ff53171b39",
+        "mobilesdk_app_id": "1:10960813815:android:ef313d3aadb43eeb7e9df2",
         "android_client_info": {
           "package_name": "com.example.phoneauth"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "10960813815-2fsiv69di03i60d5endkdc2n5u6p1bk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phoneauth",
+            "certificate_hash": "2b4454765dcf2d5607b46a264be31fc3de540407"
+          }
+        },
+        {
+          "client_id": "10960813815-uo4imhqhbmultb44aqnuar1r9nup99ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyB03KsqYqMu5BHFogW7MGH8fv5Ue6aKhPI"
+          "current_key": "AIzaSyCIvbgMo3YCAOw5GoCNJkgSx28AEwxD9hw"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10960813815-uo4imhqhbmultb44aqnuar1r9nup99ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }

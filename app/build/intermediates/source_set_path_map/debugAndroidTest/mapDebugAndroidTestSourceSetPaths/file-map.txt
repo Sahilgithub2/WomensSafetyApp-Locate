@@ -1,0 +1,35 @@
+com.example.phoneauth.test.app-ui-graphics-release-0 C:\Users\Asus\.gradle\caches\transforms-4\08ca25378f7994e6da4c00d7806a560b\transformed\ui-graphics-release\res
+com.example.phoneauth.test.app-savedstate-ktx-1.2.1-1 C:\Users\Asus\.gradle\caches\transforms-4\0a7122d83a2fe71a9ee469bdbc47e470\transformed\savedstate-ktx-1.2.1\res
+com.example.phoneauth.test.app-core-1.6.0-2 C:\Users\Asus\.gradle\caches\transforms-4\0faf112c4cbd4e0f7aa536dd35d2a735\transformed\core-1.6.0\res
+com.example.phoneauth.test.app-runtime-release-3 C:\Users\Asus\.gradle\caches\transforms-4\19c1da4f007473bb1489b902b562122a\transformed\runtime-release\res
+com.example.phoneauth.test.app-ui-test-junit4-release-4 C:\Users\Asus\.gradle\caches\transforms-4\1bdadc436c699685c227ffc642394d22\transformed\ui-test-junit4-release\res
+com.example.phoneauth.test.app-lifecycle-viewmodel-ktx-2.8.2-5 C:\Users\Asus\.gradle\caches\transforms-4\2a2d2d3a756d73cacd639cda0982cc0b\transformed\lifecycle-viewmodel-ktx-2.8.2\res
+com.example.phoneauth.test.app-lifecycle-livedata-core-2.8.2-6 C:\Users\Asus\.gradle\caches\transforms-4\2b8112124b91f38eba5579a7ca2d0d90\transformed\lifecycle-livedata-core-2.8.2\res
+com.example.phoneauth.test.app-annotation-experimental-1.4.0-7 C:\Users\Asus\.gradle\caches\transforms-4\2f9eb42fb146938a6a9b7b947db27944\transformed\annotation-experimental-1.4.0\res
+com.example.phoneauth.test.app-lifecycle-runtime-ktx-release-8 C:\Users\Asus\.gradle\caches\transforms-4\335e7c0ed10879fd98c45ef8a87c2682\transformed\lifecycle-runtime-ktx-release\res
+com.example.phoneauth.test.app-ui-geometry-release-9 C:\Users\Asus\.gradle\caches\transforms-4\36a2b84ec973f70d713f38309f1590bf\transformed\ui-geometry-release\res
+com.example.phoneauth.test.app-lifecycle-runtime-release-10 C:\Users\Asus\.gradle\caches\transforms-4\3bb563316d7c677153daa77200348405\transformed\lifecycle-runtime-release\res
+com.example.phoneauth.test.app-customview-poolingcontainer-1.0.0-11 C:\Users\Asus\.gradle\caches\transforms-4\3c2f10d4c98bd7955a596d70de8777c7\transformed\customview-poolingcontainer-1.0.0\res
+com.example.phoneauth.test.app-startup-runtime-1.1.1-12 C:\Users\Asus\.gradle\caches\transforms-4\466c63fe814732222692c140ef839d56\transformed\startup-runtime-1.1.1\res
+com.example.phoneauth.test.app-activity-compose-1.9.0-13 C:\Users\Asus\.gradle\caches\transforms-4\46eb11bd1b9eb8bc288be73d295a2089\transformed\activity-compose-1.9.0\res
+com.example.phoneauth.test.app-lifecycle-viewmodel-release-14 C:\Users\Asus\.gradle\caches\transforms-4\5ff354c1a4ba3748094c93e8146b8d64\transformed\lifecycle-viewmodel-release\res
+com.example.phoneauth.test.app-emoji2-1.3.0-15 C:\Users\Asus\.gradle\caches\transforms-4\724f2cebb682a0eb9489f1e6de4cb1c9\transformed\emoji2-1.3.0\res
+com.example.phoneauth.test.app-core-runtime-2.2.0-16 C:\Users\Asus\.gradle\caches\transforms-4\749158f47772bc3b230529d1b81e3efd\transformed\core-runtime-2.2.0\res
+com.example.phoneauth.test.app-runtime-saveable-release-17 C:\Users\Asus\.gradle\caches\transforms-4\7a2fcbe19c51a73e6027d39d2b280761\transformed\runtime-saveable-release\res
+com.example.phoneauth.test.app-ui-util-release-18 C:\Users\Asus\.gradle\caches\transforms-4\81ac2e4998d7e21abcead83cf5aea642\transformed\ui-util-release\res
+com.example.phoneauth.test.app-ui-text-release-19 C:\Users\Asus\.gradle\caches\transforms-4\87cea2dbae739d80060e835462642f00\transformed\ui-text-release\res
+com.example.phoneauth.test.app-profileinstaller-1.3.1-20 C:\Users\Asus\.gradle\caches\transforms-4\9fc8d74800366ae5ec9bfb6a0bf7ce53\transformed\profileinstaller-1.3.1\res
+com.example.phoneauth.test.app-ui-test-release-21 C:\Users\Asus\.gradle\caches\transforms-4\a390cb66a3677498e006cfbe90ce5c16\transformed\ui-test-release\res
+com.example.phoneauth.test.app-activity-1.9.0-22 C:\Users\Asus\.gradle\caches\transforms-4\a402b9461d5aa67ceafedb71a085a50d\transformed\activity-1.9.0\res
+com.example.phoneauth.test.app-lifecycle-process-2.8.2-23 C:\Users\Asus\.gradle\caches\transforms-4\b23bfa793fe02bde1ba1044a5cf8ff40\transformed\lifecycle-process-2.8.2\res
+com.example.phoneauth.test.app-activity-ktx-1.9.0-24 C:\Users\Asus\.gradle\caches\transforms-4\c3c32e7facac57c2f8145f6614bc2e56\transformed\activity-ktx-1.9.0\res
+com.example.phoneauth.test.app-core-1.13.1-25 C:\Users\Asus\.gradle\caches\transforms-4\c5f5138723695ec589c2c4b6e804000a\transformed\core-1.13.1\res
+com.example.phoneauth.test.app-lifecycle-viewmodel-savedstate-2.8.2-26 C:\Users\Asus\.gradle\caches\transforms-4\c62ac9951ee5d366bf90bc75570c3215\transformed\lifecycle-viewmodel-savedstate-2.8.2\res
+com.example.phoneauth.test.app-ui-release-27 C:\Users\Asus\.gradle\caches\transforms-4\c956430fa5fef4ab47ae76cb592c6ac8\transformed\ui-release\res
+com.example.phoneauth.test.app-ui-unit-release-28 C:\Users\Asus\.gradle\caches\transforms-4\cef8ab06682db45567705af26eec0e87\transformed\ui-unit-release\res
+com.example.phoneauth.test.app-savedstate-1.2.1-29 C:\Users\Asus\.gradle\caches\transforms-4\e136fdd6ce2a8f020a33eb0435be52b6\transformed\savedstate-1.2.1\res
+com.example.phoneauth.test.app-core-ktx-1.13.1-30 C:\Users\Asus\.gradle\caches\transforms-4\e887aac06407103fc590b8d33c935078\transformed\core-ktx-1.13.1\res
+com.example.phoneauth.test.app-androidTest-31 C:\Users\Asus\OneDrive\Desktop\phoneauth (3)\phoneauth\app\build\generated\res\resValues\androidTest\debug
+com.example.phoneauth.test.app-mergeDebugAndroidTestResources-32 C:\Users\Asus\OneDrive\Desktop\phoneauth (3)\phoneauth\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.phoneauth.test.app-mergeDebugAndroidTestResources-33 C:\Users\Asus\OneDrive\Desktop\phoneauth (3)\phoneauth\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.phoneauth.test.app-debugAndroidTest-34 C:\Users\Asus\OneDrive\Desktop\phoneauth (3)\phoneauth\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

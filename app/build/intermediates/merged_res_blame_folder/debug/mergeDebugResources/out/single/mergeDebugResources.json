@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_semi_circle_top_left.xml.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/semi_circle_top_left.xml"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.phoneauth.app-main-70:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/mipmap-hdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.example.phoneauth.app-main-70:/mipmap-hdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_ic_police_station.png.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/ic_police_station.png"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_ic_hospital.png.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/ic_hospital.png"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.phoneauth.app-main-70:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/mipmap-xxxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.example.phoneauth.app-main-70:/mipmap-xxxhdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_button_rounded_bg.xml.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/button_rounded_bg.xml"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/raw_animation_file.json.flat",
+        "source": "com.example.phoneauth.app-main-70:/raw/animation_file.json"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_box_background.xml.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/box_background.xml"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_otpactivity_bearimg.png.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/otpactivity_bearimg.png"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.phoneauth.app-main-70:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_logout.png.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/logout.png"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/layout_contact_item.xml.flat",
+        "source": "com.example.phoneauth.app-main-70:/layout/contact_item.xml"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.phoneauth.app-main-70:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_search_icon.xml.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/search_icon.xml"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_ic_book.xml.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/ic_book.xml"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_ic_sos.png.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/ic_sos.png"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/layout_item_image_slider.xml.flat",
+        "source": "com.example.phoneauth.app-main-70:/layout/item_image_slider.xml"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_ic_signout.png.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/ic_signout.png"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/xml_backup_rules.xml.flat",
+        "source": "com.example.phoneauth.app-main-70:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_semi_circle_bottom.xml.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/semi_circle_bottom.xml"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.phoneauth.app-main-70:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/mipmap-hdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.example.phoneauth.app-main-70:/mipmap-hdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_otp_verification.jpg.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/otp_verification.jpg"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_pharmacy.png.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/pharmacy.png"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_bus_stop.png.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/bus_stop.png"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_ic_home.xml.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.phoneauth.app-main-70:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_edit_text_bg.xml.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/edit_text_bg.xml"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_image1.jpg.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/image1.jpg"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_image4.jpg.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/image4.jpg"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/mipmap-mdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.example.phoneauth.app-main-70:/mipmap-mdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_edit_text_rounded_bg.xml.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/edit_text_rounded_bg.xml"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.phoneauth.app-main-70:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/mipmap-xxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.example.phoneauth.app-main-70:/mipmap-xxhdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/anim_fade_in.xml.flat",
+        "source": "com.example.phoneauth.app-main-70:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/mipmap-mdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.example.phoneauth.app-main-70:/mipmap-mdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_google_maps.png.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/google_maps.png"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.phoneauth.app-main-70:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.phoneauth.app-main-70:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.phoneauth.app-main-70:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_image2.jpg.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/image2.jpg"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_image3.jpg.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/image3.jpg"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/mipmap-xhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.example.phoneauth.app-main-70:/mipmap-xhdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/layout_activity_otpactivity.xml.flat",
+        "source": "com.example.phoneauth.app-main-70:/layout/activity_otpactivity.xml"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/mipmap-xhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.example.phoneauth.app-main-70:/mipmap-xhdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/layout_activity_main.xml.flat",
+        "source": "com.example.phoneauth.app-main-70:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/layout_activity_phone.xml.flat",
+        "source": "com.example.phoneauth.app-main-70:/layout/activity_phone.xml"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/layout_activity_add_contacts.xml.flat",
+        "source": "com.example.phoneauth.app-main-70:/layout/activity_add_contacts.xml"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_phone_auth.png.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/phone_auth.png"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.phoneauth.app-main-70:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_your_app_logo.png.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/your_app_logo.png"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/mipmap-xxxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.example.phoneauth.app-main-70:/mipmap-xxxhdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.phoneauth.app-main-70:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_bg_img.jpg.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/bg_img.jpg"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.phoneauth.app-main-70:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_viewpager_background.xml.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/viewpager_background.xml"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/drawable_semi_circle_top.xml.flat",
+        "source": "com.example.phoneauth.app-main-70:/drawable/semi_circle_top.xml"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.phoneauth.app-main-70:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.phoneauth.app-debug-68:/mipmap-xxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.example.phoneauth.app-main-70:/mipmap-xxhdpi/ic_launcher_adaptive_back.png"
+    }
+]
